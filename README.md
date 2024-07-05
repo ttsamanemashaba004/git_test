@@ -1,1 +1,2 @@
-# git_test
+Hello Odin!
+Enjoying the course so far!
